@@ -1,0 +1,35 @@
+#container {
+    /* width: 100%; */
+    padding-left: 0px;
+    padding-right: 0px;
+    
+}
+
+
+#image {
+    width: 80%;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+#image2 {
+    width: 1200px;
+    padding-left: 90px;
+}
+#after-slider {
+   margin-top: 15px; 
+   justify-content: center;
+}
+#personal-info {
+    display: flex;
+}
+#statement {
+    font-size: 25px;
+    padding: 50px;
+    gap: 50px;
+}
+#Technology {
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+}
